@@ -6,12 +6,16 @@
 
 联系我:hi@songhaozhi.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gujiniCY&layout=compact)](https://github.com/gujiniCY/mayday)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gujiniCY&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
+| <a href="https://github.com/gujiniCY/mayday"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gujiniCY&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gujiniCY/mayday"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gujiniCY&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-
-
+### 我开发或参与的仓库
+<a href="https://github.com/gujiniCY/mayday">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gujiniCY&repo=mayday&theme=buefy" />
+</a>
+<a href="https://github.com/smart-doc-group/smart-doc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smart-doc-group&repo=smart-doc&theme=buefy" />
+</a>
 
 
 
