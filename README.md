@@ -2,7 +2,7 @@
 
 我目前在杭州从事Java Web开发
 
-这是我的[博客](https://songhaozhi.com)
+这是我的<a target="_blank" href="https://songhaozhi.com">博客<a/>
 
 联系我:hi@songhaozhi.com
 
