@@ -1,6 +1,6 @@
 ### 你好 👋
 
-我目前在杭州从事Java Web开发
+我目前在杭州从事Java Web开发。想回武汉发展，有岗位的话请联系我！
 
 这是我的<a target="_blank" href="https://songhaozhi.com">博客<a/>
 
